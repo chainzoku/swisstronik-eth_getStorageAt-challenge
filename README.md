@@ -13,7 +13,7 @@ Smart Contract: `0xf84Df872D385997aBc28E3f07A2E3cd707c9698a`
 npm install
 ```
 
-if error, you can ketik ini
+if error, you can type this
 
 ```
 npm config --location=project set legacy-peer-deps=true
